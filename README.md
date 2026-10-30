@@ -7,6 +7,7 @@
 [![Platform](https://img.shields.io/badge/platform-Debian%20%7C%20Kali%20%7C%20Ubuntu-informational)](https://www.kali.org)
 [![CUPS](https://img.shields.io/badge/CUPS-2.4-blue)](https://openprinting.github.io/cups/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![GitHub](https://img.shields.io/badge/GitHub-ethicalvulnlab-181717?logo=github&logoColor=white)](https://github.com/ethicalvulnlab)
 
 ---
 
@@ -29,7 +30,7 @@
 - [Why a Generic PPD Never Works](#why-a-generic-ppd-never-works)
 - [Repository Files](#repository-files)
 - [License](#license)
-- [Buy Me a Coffee](#buy-me-a-coffee)
+- [Author](#author)
 
 ---
 
@@ -415,13 +416,14 @@ from Step 8 are still missing.
 
 ---
 
-## Buy Me a Coffee
+## Author
 
-If this guide saved you hours of debugging, you can buy me a coffee ☕
+**ethicalvulnlab**
 
-<!-- Replace YOUR_USERNAME with your Buy Me a Coffee handle before publishing -->
-<a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
-</a>
+- GitHub: [@ethicalvulnlab](https://github.com/ethicalvulnlab)
+- Repository: [fix_printer_problem](https://github.com/ethicalvulnlab/fix_printer_problem)
+
+If this guide saved you hours of debugging, consider giving the repo a ⭐ — it helps
+other people find it.
 
 Thanks for reading — and happy printing! 🖨️
