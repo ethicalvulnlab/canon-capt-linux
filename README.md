@@ -1,6 +1,8 @@
-# Canon i-SENSYS LBP6020 on Linux — CAPT Driver Fix
+# Canon CAPT on Linux — i-SENSYS LBP6020 Driver Fix
 
 **Get the Canon i-SENSYS LBP6020 (and similar CAPT-based LBP printers) working on Debian / Kali / Ubuntu.**
+
+While written for the **LBP6020**, most steps apply to other Canon CAPT-based i-SENSYS LBP models.
 
 > Tested on **Kali GNU/Linux Rolling 2026.3** · kernel 6.19 · CUPS 2.4.18 · Canon CAPT 2.71
 
@@ -389,7 +391,7 @@ printer cannot understand the data — so nothing prints, or you get blank/garba
 ## Repository Files
 
 ```
-fix_printer_problem/
+canon-capt-linux/
 ├── README.md              ← this guide
 ├── install-lbp6020.sh     ← automated installer (driver + queue + service)
 ├── LICENSE                ← MIT
@@ -421,7 +423,7 @@ from Step 8 are still missing.
 **ethicalvulnlab**
 
 - GitHub: [@ethicalvulnlab](https://github.com/ethicalvulnlab)
-- Repository: [fix_printer_problem](https://github.com/ethicalvulnlab/fix_printer_problem)
+- Repository: [canon-capt-linux](https://github.com/ethicalvulnlab/canon-capt-linux)
 
 If this guide saved you hours of debugging, consider giving the repo a ⭐ — it helps
 other people find it.
