@@ -1,0 +1,8 @@
+# Canon proprietary driver packages — do not commit binaries
+*.deb
+*.tar.gz
+
+# Logs / OS noise
+*.log
+.DS_Store
+Thumbs.db
